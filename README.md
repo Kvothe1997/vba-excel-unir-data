@@ -1,4 +1,4 @@
-## **Macro de Excel**.
+# **Macro de Excel**
 
 Rellena una tabla con data traída desde tablas en otros archivos de excel. La data se jala y unifica tomando como referencia una columna con nombres en común.
 
